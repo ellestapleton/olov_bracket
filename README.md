@@ -1,6 +1,7 @@
 # olov_bracket
 
-![alt tag](https://github.com/ellestapleton/olov_bracket/blob/master/pics/P1011385.JPG?raw=true)
+<img src="https://github.com/ellestapleton/olov_bracket/blob/master/pics/P1011385.JPG?raw=true" width="400">
+
 Designed to make my wiggly table less wiggly.
 
 Mates with Ikea Olov legs
